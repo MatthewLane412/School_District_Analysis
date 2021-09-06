@@ -9,10 +9,10 @@ The purpose of this deliverable is to prepare all standardized test data in orde
 ### How is the district summary affected?
 When taking out the THS 9th grade test grades, there is a slight downtick in reading, math, and overall test scores.  
 
-#### THS 9th graders included
+#### District Summary including THS 9th graders
 ![THS_9th_Included](/Resources/PyCitySchools_District_Summary.PNG)
 
-#### THS 9th graders excluded
+#### District Summary excluding THS 9th graders
 ![THS_9th_Excluded](/Resources/PyCitySchoolsChallenge_District_Summary.PNG)
 
 
