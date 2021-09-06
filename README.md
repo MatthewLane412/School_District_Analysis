@@ -10,6 +10,7 @@ The purpose of this deliverable is to prepare all standardized test data in orde
  - When taking out the THS 9th grade test grades, there is a slight downtick in reading, math, and overall test scores.  
 
 ![testing](/Resources/PyCitySchools_District_Summary.png)
+
 ![testing2](/Resources/PyCitySchoolsChallenge_District_Summary.png)
 
 
