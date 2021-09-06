@@ -11,7 +11,7 @@ The purpose of this deliverable is to prepare all standardized test data in orde
 
 ![testing](/Resources/PyCitySchools_District_Summary.PNG)
 
-![testing2](/Resources/PyCitySchoolsChallenge_District_Summary.png)
+![testing2](/Resources/PyCitySchoolsChallenge_District_Summary.PNG)
 
 
 ### How is the school summary affected?
