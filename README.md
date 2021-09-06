@@ -10,7 +10,7 @@ The purpose of this deliverable is to prepare all standardized test data in orde
 
 ### How is the school summary affected?
 
-###How does replacing the ninth graders' math and reading scores affected Thomas High School's performance relative to the other schools?
+### How does replacing the ninth graders' math and reading scores affected Thomas High School's performance relative to the other schools?
 
 ### How does replacing the ninth-grade schores affect the following:
  - Math and reading scores by grade
