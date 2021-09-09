@@ -23,7 +23,7 @@ When taking out THS 9th grade test grades, THS has a slight downtick in reading,
 ![THS_9th_Excluded](/Resources/PyCitySchoolsChallenge_District_Summary.PNG)
 
 #### THS Summary excluding THS 9th graders
-![THS_9th_Excluded](/Resources/PyCitySchoolsChallenge_District_Summary.PNG)
+![THS_9th_Excluded](/Resources/PyCitySchoolsChallenge_THS_Summary.PNG)
 
 
 ### How does replacing the ninth graders' math and reading scores affected Thomas High School's performance relative to the other schools?
