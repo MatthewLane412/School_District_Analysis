@@ -20,7 +20,7 @@ When taking out the THS 9th grade test grades, the district summary has a slight
 When taking out THS 9th grade test grades, THS has a slight downtick in reading, math, and overall passing percent. 
 
 #### THS Summary including THS 9th graders
-![THS_9th_Excluded](/Resources/PyCitySchoolsChallenge_District_Summary.PNG)
+![THS_9th_Excluded](/Resources/PyCitySchools_THS_Summary.PNG)
 
 #### THS Summary excluding THS 9th graders
 ![THS_9th_Excluded](/Resources/PyCitySchoolsChallenge_THS_Summary.PNG)
