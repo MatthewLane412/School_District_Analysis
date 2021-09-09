@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this deliverable is to prepare all standardized test data in order to report on performance trends and patterns. This analysis will help make decisions at a district level. During this analysis, the data will be aggregated to showcase trends. The end results will help the school board and superintendent make decisions on the school budget and priorities. Because of the Thomas High School 9th grade evidence of academic dishonesty, a second analysis was completed to exclude Thomas High School 9th graders test grades. 
+The purpose of this deliverable is to prepare all standardized test data in order to report on performance trends and patterns. This analysis will help make decisions at a district level. During this analysis, the data will be aggregated to showcase trends. The end results will help the school board and superintendent make decisions on the school budget and priorities. Because of the Thomas High School (THS) 9th grade evidence of academic dishonesty, a second analysis was completed to exclude Thomas High School 9th graders test grades. 
 
 ## Results
 
