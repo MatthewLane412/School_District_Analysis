@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 
 ## Overview
 
@@ -34,7 +34,7 @@ Replacing THS 9th graders' math and reading scores didn't affected THS against o
 
 ### How does replacing the ninth-grade scores affect the following:
  - Math and reading scores by grade
-   - Overall 9th grade schools disctrict wide went down. All other grades remain unchanged
+   - Overall 9th grade schools district wide went down. All other grades remain unchanged.
 
  - Scores by school spending
    - The '% overall passing' for the bucket '$630-644' went down slightly. All other 'spending ranges(per student)' remain unchanged
@@ -46,5 +46,4 @@ Replacing THS 9th graders' math and reading scores didn't affected THS against o
    - The '% overall passing' for the bucket 'Charter' went down slightly. All other 'school types' remain unchanged
 
 ## Summary
-
-
+ - Overall, there was very little change in the school district analysis when replacing THS 9th grade scores with NaNs. THS 9th graders had some of the highest math and reading scores out of the schools selected, but with the given sample size, there was little variance. Scores by school spending was relatively unaffected by the updated analysis. The third quartile became slightly worse, while keeping the same placement among spending categories. Scores by school size was also relatively unaffected. Medium sized schools remained the highest for "% Overall Passing". Scores by school type ranking remained unchanged. Charter schools remained ranking above district schools by a sizable margin.
