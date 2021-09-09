@@ -30,15 +30,20 @@ When taking out THS 9th grade test grades, THS has a slight downtick in reading,
 
 
 ### How does replacing the ninth graders' math and reading scores affected Thomas High School's performance relative to the other schools?
-Replacing THS 9th graders' math and reading scores affected Thomas High School's performance relative to the other schools...
+Replacing THS 9th graders' math and reading scores didn't affected THS against other schools. THS ended up in the same rank prior to the recalculation.
 
-
-
-### How does replacing the ninth-grade schores affect the following:
+### How does replacing the ninth-grade scores affect the following:
  - Math and reading scores by grade
+  - Overall 9th grade schools disctrict wide went down. All other grades remain unchanged
+
  - Scores by school spending
+  - The '% overall passing' for the bucket '$630-644' went down slightly. All other 'spending ranges(per student)' remain unchanged
+
  - Scores by school size
+  - The '% overall passing' for the bucket 'Medium (1000-2000)' went down slightly. All other 'school sizes' remain unchanged
+ 
  - Scores by school type
+  - The '% overall passing' for the bucket 'Charter' went down slightly. All other 'school types' remain unchanged
 
 ## Summary
 
